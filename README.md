@@ -142,6 +142,11 @@ Tempo de Casa Medio (Meses) = AVERAGE('fato_churn'[mesespermanencia])
 📈 6. Storytelling de Dados e Dashboards
 O fluxo analítico foi estruturado em 3 páginas lógicas (Drill-down conceitual), guiando o gestor do macro (financeiro) para o micro (causa raiz).
 
+📄 Página Inicial: Home do Dashboard
+Objetivo: Navegação para página preferível
+
+<img width="1124" height="624" alt="telco_inicial" src="https://github.com/user-attachments/assets/0b4453d2-66b3-4824-81ec-0e2f1db4c896" />
+
 📄 Página 1: Resumo Executivo (O Tamanho do Problema)
 Objetivo: O impacto global na companhia.
 
