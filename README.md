@@ -101,6 +101,8 @@ FROM telco_raw_data;
 ALTER TABLE fato_churn ADD CONSTRAINT fk_fato_cliente FOREIGN KEY (customerID) REFERENCES dim_cliente(customerID);
 ALTER TABLE fato_churn ADD CONSTRAINT fk_fato_contrato FOREIGN KEY (customerID) REFERENCES dim_contrato(customerID);
 ALTER TABLE fato_churn ADD CONSTRAINT fk_fato_servicos FOREIGN KEY (customerID) REFERENCES dim_servicos(customerID);
+
+
 🧮 5. Desenvolvimento Analítico (DAX)
 Dentro do Power BI, desenvolvi uma série de cálculos avançados e variáveis de engenharia (Feature Engineering) para traduzir o banco de dados em KPIs comerciais.
 
