@@ -127,6 +127,7 @@ Receita Perdida = CALCULATE(SUM('fato_churn'[valormensal]), 'fato_churn'[statusc
 O fluxo analítico foi estruturado em 3 níveis lógicos, guiando o gestor da visão macro para a causa raiz.
 
 Página Inicial: Navegação
+
 Página 1: Resumo Executivo
 Impacto global na companhia e árvore de decomposição com IA para identificar caminhos de cancelamento.
 
