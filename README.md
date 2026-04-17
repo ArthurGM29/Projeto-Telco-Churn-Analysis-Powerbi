@@ -129,10 +129,10 @@ O fluxo analítico foi estruturado em 3 níveis lógicos, guiando o gestor da vi
 Página Inicial: Navegação
 
 Página 1: Resumo Executivo
-Impacto global na companhia e árvore de decomposição com IA para identificar caminhos de cancelamento.
+Impacto global na companhia.
 
 Página 2: Perfil do Cliente
-Investigação comportamental por faixa etária e estrutura familiar.
+Investigação comportamental por faixa etária e estrutura familiar e árvore de decomposição com IA para identificar caminhos de cancelamento.
 
 Página 3: Serviços e Contratos
 Análise técnica de falhas de produto (Fibra Óptica) e impacto do Cross-sell na retenção.
